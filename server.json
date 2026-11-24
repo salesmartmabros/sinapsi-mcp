@@ -1,0 +1,9 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "wiki.sinapsi/sinapsi",
+  "title": "Sinapsi",
+  "description": "Verified public wikis for LLMs: cited sections, provenance, and what was tested and failed.",
+  "version": "1.0.0",
+  "websiteUrl": "https://sinapsi.wiki/",
+  "remotes": [ { "type": "streamable-http", "url": "https://sinapsi.wiki/mcp/hub/" } ]
+}

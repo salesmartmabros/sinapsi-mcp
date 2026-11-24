@@ -1,0 +1,8 @@
+{
+  "servers": {
+    "sinapsi": {
+      "type": "http",
+      "url": "https://sinapsi.wiki/mcp/hub/"
+    }
+  }
+}

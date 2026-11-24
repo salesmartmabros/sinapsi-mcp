@@ -1,5 +1,7 @@
 # Sinapsi MCP — verified public wikis for your AI assistant
 
+[![Sinapsi MCP connector](https://glama.ai/mcp/connectors/wiki.sinapsi/sinapsi/badges/score.svg)](https://glama.ai/mcp/connectors/wiki.sinapsi/sinapsi)
+
 [Sinapsi](https://sinapsi.wiki/) serves curated, source-checked wikis over the [Model Context Protocol](https://modelcontextprotocol.io/). Your assistant (Claude, ChatGPT/Codex, Cursor, VS Code, …) searches them, cites the exact section it used, and sees what has **already been tried and did not work** — so it stops repeating dead ends.
 
 - **Remote server, nothing to install.** Streamable HTTP, no API key needed for the public wikis.

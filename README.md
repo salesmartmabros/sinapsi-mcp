@@ -10,6 +10,8 @@
 - **Citations you can check:** every search result is a whole section with a stable `chunk_id`, linked to its page on the web.
 - Listed in the official MCP Registry as `wiki.sinapsi/sinapsi`.
 
+Full documentation: **[sinapsi.wiki/docs](https://sinapsi.wiki/docs/)** — quickstart, every client, tools reference, REST API ([llms-full.txt](https://sinapsi.wiki/llms-full.txt) for LLMs).
+
 ## Connect in one minute
 
 All public wikis through one endpoint:
